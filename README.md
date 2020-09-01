@@ -5,8 +5,10 @@
 https://www.itread01.com/content/1547254807.html
 
 劃出精美功能強大的前端表格 using DataTables
-
 https://dotblogs.com.tw/shadow/2018/04/03/013433
+
+複數標題用法
+https://datatables.net/examples/basic_init/complex_header.html
 
 可能的解決方案
 https://stackoverflow.com/questions/51586069/error-datatable-is-not-a-function-in-electron
