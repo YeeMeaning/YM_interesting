@@ -1,5 +1,6 @@
 # if else 縮寫
 [JS if…else…的簡短寫法](http://sodagreen.tw/wp/workblog/?p=82)
+
 1.檢查變數並設定初始值
 ```js
 if (!b) {
