@@ -1,3 +1,53 @@
+# if else 縮寫
+[JS if…else…的簡短寫法](http://sodagreen.tw/wp/workblog/?p=82)
+1.檢查變數並設定初始值
+```js
+if (!b) {
+  b = 2;
+}
+// 簡寫
+b || (b = 2);
+```
+2.if…else… 的情況
+```js
+if (a) {
+  b = 1;
+  c = 'nice'; 
+} else {
+  b = 2;
+  c = 'bad';
+}
+// 簡寫
+// `?:`為三元運算子(Ternary Operator)
+a ? ( (b = 1), (c = 'nice') ) : ( (b = 2), (c = 'bad') );
+```
+3.單一 if 的情況
+```js
+if (a) {
+  c = 'OK';
+}
+// 簡寫
+// `?:`為三元運算子(Ternary Operator)
+a && (c = 'OK');
+a ? (c= 'OK') : '';
+```
+4.多個條件的情況
+```js
+function getA () {
+  if (a === 0) {
+    return 'a is zero.';
+  } else if (a === 1) {
+    return 'a is one.'; 
+  } else {
+    return 'a is not 0 nor 1.';
+  }
+}
+// 簡寫
+// `?:`為三元運算子(Ternary Operator)
+function getA () {
+  return (a === 0) ? 'a is zero' : (a === 1) ? 'a is one' : 'other';
+}
+```
 # YM_interesting
 
 如何用python 畫等高線圖
