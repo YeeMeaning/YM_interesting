@@ -7,7 +7,7 @@
 ![image](https://github.com/YeeMeaning/YM_interesting/blob/master/image/%E5%90%84%E5%BB%A0%E7%89%8C%E9%8F%A1%E9%A0%AD%E8%A6%8F%E6%A0%BC.png)
 
 
- 鏡頭視角：鏡頭中心點到成像平面對角線兩端所形成的夾角就是鏡頭視角。<br>
+## 鏡頭視角：鏡頭中心點到成像平面對角線兩端所形成的夾角就是鏡頭視角。<br>
 OpenGL視角視線與顯示的垂直方向所成的角度。<br>
 
 以135片幅規格，部分焦距的視角：<br>
@@ -43,24 +43,24 @@ OpenGL視角視線與顯示的垂直方向所成的角度。<br>
 　　　　　　　　400.00　　 6.191454161<br>
 　　　　　　　　500.00　　 4.954898587<br>
 注:   （１）135 片幅：大小為 36*24mm：等效即為標示。<br>
-　　　　　Canon: 1Ds、5D系列；
-　　　　　Nikon: D3、D700；
-　　　　　Sony: A900。<br>
+　　　　　Canon: 1Ds、5D系列；<br>
+　　　　　Nikon: D3、D700；<br>
+　　　　　Sony: A900。<br><br>
 　　（２）APS-H 片幅：大小為 27*18mm：等效焦距*1.3。<br>
-　　　　　Canon: 1D系列；
+　　　　　Canon: 1D系列；<br>
 　　　　　Leica: M8。<br>
 　　（３）APS-C 片幅：大小為 23.6*15.8mm：等效焦距*1.5。<br>
-　　　　　Nikon: D300、D90、D60；
-　　　　　Pentax: K20D、K200D、K-m；
-　　　　　Sony: A700、A350
-　　　　　APS-C 片幅：大小為 22.8*14.8mm：等效焦距*1.6。
-　　　　　Canon: 40D、450D、1000D。
-　　　　　Sigma 片幅：大小為 20.7*13.8mm：等效焦距*1.7。
-　　　　　Sigma: SD14、DP1。
+　　　　　Nikon: D300、D90、D60；<br>
+　　　　　Pentax: K20D、K200D、K-m；<br>
+　　　　　Sony: A700、A350<br>
+　　　　　APS-C 片幅：大小為 22.8*14.8mm：等效焦距*1.6。<br>
+　　　　　Canon: 40D、450D、1000D。<br>
+　　　　　Sigma 片幅：大小為 20.7*13.8mm：等效焦距*1.7。<br>
+　　　　　Sigma: SD14、DP1。<br>
 　　（４）4/3 片幅：大小為 18*13.5mm：等效焦距*2。<br>
-　　　　　Leica: Digilux 3；
-　　　　　Olympus: E-3、E-520、E-420；
-　　　　　Panasonic: G1、L10。<br>
+　　　　　Leica: Digilux 3；<br>
+　　　　　Olympus: E-3、E-520、E-420；<br>
+　　　　　Panasonic: G1、L10。<br><br>
 
 鏡頭有各自固有的焦距，焦距不同拍攝範圍也相應地有很大變化。變焦鏡頭也是同樣，當變焦到一定焦距時的固定視角與該焦距定焦鏡頭是相同的。下面將說明鏡頭所具有的焦距與視角的關係，同時學習因視角變化所導致的照片效果變化。
 
