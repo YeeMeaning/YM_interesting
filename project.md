@@ -48,7 +48,7 @@ OpenGL視角視線與顯示的垂直方向所成的角度。[來源](https://cod
 　　　　　Sony: A900。<br><br>
 　　（２）APS-H 片幅：大小為 27*18mm：等效焦距*1.3。<br>
 　　　　　Canon: 1D系列；<br>
-　　　　　Leica: M8。<br>
+　　　　　Leica: M8。<br><br>
 　　（３）APS-C 片幅：大小為 23.6*15.8mm：等效焦距*1.5。<br>
 　　　　　Nikon: D300、D90、D60；<br>
 　　　　　Pentax: K20D、K200D、K-m；<br>
@@ -56,7 +56,7 @@ OpenGL視角視線與顯示的垂直方向所成的角度。[來源](https://cod
 　　　　　APS-C 片幅：大小為 22.8*14.8mm：等效焦距*1.6。<br>
 　　　　　Canon: 40D、450D、1000D。<br>
 　　　　　Sigma 片幅：大小為 20.7*13.8mm：等效焦距*1.7。<br>
-　　　　　Sigma: SD14、DP1。<br>
+　　　　　Sigma: SD14、DP1。<br><br>
 　　（４）4/3 片幅：大小為 18*13.5mm：等效焦距*2。<br>
 　　　　　Leica: Digilux 3；<br>
 　　　　　Olympus: E-3、E-520、E-420；<br>
