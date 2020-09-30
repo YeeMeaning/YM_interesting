@@ -7,8 +7,12 @@
 ![image](https://github.com/YeeMeaning/YM_interesting/blob/master/image/%E5%90%84%E5%BB%A0%E7%89%8C%E9%8F%A1%E9%A0%AD%E8%A6%8F%E6%A0%BC.png)
 
 ## 鏡頭視角 簡易計算公式
+
+[](https://github.com/YeeMeaning/YM_interesting/blob/master/image/Camera%20FoV.png)
+
 鏡頭視角是以覆蓋底片對角線為直徑的圓來計算的，以135相機來說，根據勾股定理，底片對角線約為43.2666mm。<br>
 <br>
+
 設： A = 鏡頭視角 / 2 ， b = 焦距 ， a = 底片對角線 / 2<br>
 則： 鏡頭視角 = 2A = 2 * 反正切 ((底片對角線 / 2) / 焦距 ) = 2 * tan-1 (( a / b )<br>
 例：50mm鏡頭的視角 = 2 * tan-1 (( 43.2666 / 2 ) / 50 ) = 47 度<br>
