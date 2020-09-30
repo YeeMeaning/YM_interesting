@@ -8,7 +8,7 @@
 
 ## 鏡頭視角 簡易計算公式
 
-[](https://github.com/YeeMeaning/YM_interesting/blob/master/image/Camera%20FoV.png)
+![image](https://github.com/YeeMeaning/YM_interesting/blob/master/image/Camera%20FoV.png)
 
 鏡頭視角是以覆蓋底片對角線為直徑的圓來計算的，以135相機來說，根據勾股定理，底片對角線約為43.2666mm。<br>
 <br>
