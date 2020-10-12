@@ -1,3 +1,10 @@
+# Pinhole camera model 
+
+What Is Camera Calibration? [Mathwork](https://www.mathworks.com/help/vision/ug/camera-calibration.html)
+針孔相機模型 Pinhole Camera Model [Math.py](https://allen108108.github.io/blog/2020/02/06/%E9%87%9D%E5%AD%94%E7%9B%B8%E6%A9%9F%E6%A8%A1%E5%9E%8B%20%20Pinhole%20Camera%20Model/)
+
+
+
 # 相機學習
 
 鏡頭基礎
