@@ -1,4 +1,4 @@
-
+# 失敗
 安装cupy-ERROR: Command errored out with exit status
 官方解決方法:
 https://docs.cupy.dev/en/latest/install.html#install-cupy
